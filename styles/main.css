@@ -33,6 +33,10 @@
   animation: fade-in 3s, slide-in-from-bottom 2s;
 }
 
+ul {
+  animation: fade-in 3s, slide-in-from-bottom 2s;
+}
+
 body {
   font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
