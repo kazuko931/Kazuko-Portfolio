@@ -2,8 +2,7 @@
 title: Minecraft Server
 date: 2021/3/19
 description: In this post I wrote about me journy on running a locally ran custom Minecraft server 
-tag: Linux
-tag: Server
+tag: Medium Project
 author: You
 ---
 
