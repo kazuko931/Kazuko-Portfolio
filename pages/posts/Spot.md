@@ -66,3 +66,19 @@ github link - [Spot](https://github.com/kazuko931/Spot)
 </p>
 ---
 </section>
+
+<section className="element">
+<center>
+    Here is a Rubber Duck for reading till the end ✌️
+
+    <Image
+        src="/images/Debug.jpg"
+        alt="Photo"
+        width={100}
+        height={100}
+        priority
+        className="next-image"
+    />
+---
+</center>
+</section>
