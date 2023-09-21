@@ -13,6 +13,25 @@
   src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
   font-named-instance: 'Italic';
 }
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes slide-in-from-bottom {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.element {
+  animation: fade-in 3s, slide-in-from-bottom 2s;
+}
 
 body {
   font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
@@ -24,6 +43,7 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  background-color: #121212;
 }
 b,
 strong,
