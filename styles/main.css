@@ -36,6 +36,9 @@
 ul {
   animation: fade-in 3s, slide-in-from-bottom 2s;
 }
+small {
+  animation: fade-in 3s, slide-in-from-bottom 2s;
+}
 
 body {
   font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
