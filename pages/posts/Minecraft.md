@@ -8,7 +8,8 @@ author: You
 
 <section className="element">
 # It was a funny start
+</section>
 
 So Me and my friends were All playing League until One day riot decided to IP Ban Players So I decided to Start a minecraft server.
 
-</section>
+---
