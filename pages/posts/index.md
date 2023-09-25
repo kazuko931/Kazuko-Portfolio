@@ -9,6 +9,6 @@ date: 2021-03-18
 <section className="element">
     <center>
         # Here I will be posting Blogs About My projects 
-                # 📢So stay Tuned for updates📢
+                # 📢stay Tuned for updates📢
     </center>
 </section>
